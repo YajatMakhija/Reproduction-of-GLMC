@@ -1,0 +1,10 @@
+torch
+numpy
+datasets
+transformers==4.50.1
+matplotlib
+einops
+POT
+safetensors
+wandb
+accelerate>=0.26.0
