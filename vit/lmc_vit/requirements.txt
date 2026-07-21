@@ -1,0 +1,8 @@
+torch
+torchvision
+einops
+numpy
+scipy
+pyyaml
+tqdm
+pot        # optimal transport (imported as `ot`); head/MLP matching
